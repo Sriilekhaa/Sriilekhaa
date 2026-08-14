@@ -1,7 +1,7 @@
 ## Hi there, I'm Srilekhaa
 
 - Currently diving into **Agentic AI** and autonomous systems
-- Learning hands-on through real projects and courses
+- Learning hands-on through real projects
 - Reach me at **sriiilekha@gmail.com**
 
 ---
@@ -9,7 +9,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,prisma,solidity,py,tensorflow,pytorch,sklearn,opencv,figma,c,cpp,git,github,vscode,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,react,redux,tailwind,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,prisma,solidity,py,tensorflow,pytorch,sklearn,opencv,figma,git,github,vscode,docker,linux" />
 </p>
 
 ---
