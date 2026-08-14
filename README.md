@@ -9,7 +9,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,react,redux,tailwind,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,prisma,solidity,py,tensorflow,pytorch,sklearn,opencv,figma,git,github,vscode,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,ts,react,redux,tailwind,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,prisma,solidity,py,tensorflow,pytorch,sklearn,opencv,numpy,pandas,matplotlib,firebase,supabase,claude,figma,git,github,vscode,docker,linux,aws,vercel," />
 </p>
 
 ---
